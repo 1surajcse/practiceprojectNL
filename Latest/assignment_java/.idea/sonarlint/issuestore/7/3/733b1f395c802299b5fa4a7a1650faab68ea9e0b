@@ -1,0 +1,27 @@
+
+œ
+java:S2293d"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ïòÒ8ºè±ÿç1J$716aa6e4-5175-440c-8c96-ee58bdbe6ce6
+˜	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™õÕèûÿÿÿÿ8»è±ÿç1J$268b7c6a-71e2-4a18-b7c1-2ddd1f245670
+“	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ Ñ˜8»è±ÿç1J$d9953055-d32f-49bb-9947-3a4a6d83fb92
+˜	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßã¹şÿÿÿÿ8»è±ÿç1J$2850ff21-20ff-4e7b-bb8b-2d5a1e71da6b
+˜	java:S117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÎöØşÿÿÿÿ8»è±ÿç1J$d5e1426e-16b7-48e1-bfcf-813a22c6b000
+˜	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æØ†İúÿÿÿÿ8»è±ÿç1J$7f03a657-a55a-4755-b5fa-cac186c50ae0
+“	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Éûî8»è±ÿç1J$2913787d-6870-4cc6-b290-2f06b3cc8bf8
+
+java:S2095:"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.( ñı¦8Ğê±ÿç1J$52867157-8e8c-45dd-8ae3-28c4849d4086
+i
+java:S1170"!Make this final field static too.(Â±Şéşÿÿÿÿ8Ñê±ÿç1J$656db573-2e76-446f-9697-8b2a7d68aaf2
+Ã
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Š»œ8Òê±ÿç1J$f25afdc1-2b45-4d40-a4e6-28576cf185b0
+l	java:S106"+Replace this use of System.out by a logger.(Ê‰œ8Öê±ÿç1J$f497fad7-e75c-4cf7-93e7-50be55e41aca
+r	java:S106"+Replace this use of System.out by a logger.(ƒ„“äıÿÿÿÿ8Öê±ÿç1J$25696028-3dd3-425e-8e5c-3b7f6a129c79
+o
+java:S1197$",Move the array designators [][] to the type.(Îºò´8×ê±ÿç1J$466d4dc2-abe4-42fb-a97f-b794c9209207
+r	java:S106&"+Replace this use of System.out by a logger.(‡ºùÿÿÿÿ8Øê±ÿç1J$2faf14b3-c137-4769-8403-5dd5b019fbdc
+r	java:S1066"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ûê±ÿç1J$91d9f5d5-39a7-4335-aeda-59d98b96215a
+r	java:S106G"+Replace this use of System.out by a logger.(êÿ¢ûÿÿÿÿ8Şê±ÿç1J$feea0aab-2acb-4017-a767-3baeb50bcd6b
+r	java:S106O"+Replace this use of System.out by a logger.(Ä¸ïŸûÿÿÿÿ8Şê±ÿç1J$b257f113-1685-433c-981e-ae3eea5d9e2f
+š
+java:S3776r"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¾üÉèúÿÿÿÿ8äê±ÿç1J$97cceebc-5819-4a36-b21b-b8898a2a46a9
+ˆ
+java:S1128"ERemove this unused import 'com.mycompany.app.constants.MatrixInputs'.(±£Ñ‰8æê±ÿç1J$20d06aee-527e-4d27-89e8-105b0806d3df

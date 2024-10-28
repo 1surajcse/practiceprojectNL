@@ -1,0 +1,9 @@
+camunda.bpm.admin-user:
+  id: admin
+  password: admin
+
+camunda:
+    bpm:
+      generic-properties:
+        properties:
+          historyTimeToLive: P1D

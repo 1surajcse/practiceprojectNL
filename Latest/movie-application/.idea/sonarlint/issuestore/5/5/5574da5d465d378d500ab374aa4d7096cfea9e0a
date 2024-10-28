@@ -1,0 +1,10 @@
+
+‘	java:S116"ORename this field "Year" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(δΐÿ±8Ν “ίθ1J$0bd696e0-6d14-47eb-b928-cf5c7ae6d287
+X
+java:S1128"6Remove this unused import 'lombok.AllArgsConstructor'.(΄Ύφωÿÿÿÿ8βΗ¤ίθ1
+H
+java:S1128"+Remove this unused import 'lombok.Builder'.(§’Πί8βΗ¤ίθ1
+J
+java:S1128"(Remove this unused import 'lombok.Data'.(χν«ÿÿÿÿÿ8βΗ¤ίθ1
+R
+java:S1128	"5Remove this unused import 'lombok.NoArgsConstructor'.(Έ¨›8δΗ¤ίθ1

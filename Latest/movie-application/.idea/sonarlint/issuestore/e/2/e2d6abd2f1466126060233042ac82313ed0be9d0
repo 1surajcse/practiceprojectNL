@@ -1,0 +1,25 @@
+
+ˆ	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(„¯æò8ËÏºàè1J$1f4ee5b8-7101-4646-af58-2b31c8900b3a
+‘
+java:S2259;"NA "NullPointerException" could be thrown; "movieInformation" is nullable here.(şˆí¦8¿ñŸàè1J$013d086d-6a46-4da5-9136-6ca7d0ab2e8a
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ë¥Òßè1J$9d40f18b-6e3e-4859-b393-e9988b80f99f
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ì¥Òßè1J$6cdea9aa-515f-4f70-a7f8-2283b1d5afe5
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8í¥Òßè1J$2c7f43ce-51b0-47dd-94ef-f7300d134122
+‡
+java:S18548"?Remove this useless assignment to local variable "userservice".(Ï¹İôøÿÿÿÿ8ÒñŸàè1J$c7d816bb-8ddc-411b-a2ff-f6fb2cf3d24f
+m	java:S106("+Replace this use of System.out by a logger.(ôı§8ó¥Òßè1J$27a14295-82f5-457b-9a90-6ffc3e72d985
+r	java:S1066"+Replace this use of System.out by a logger.(ŞÆ­Ûşÿÿÿÿ8÷¥Òßè1J$1f8fc362-1d28-4cf0-a8b5-14c923bc8770
+x
+java:S14818"0Remove this unused "userservice" local variable.(Ï¹İôøÿÿÿÿ8İñŸàè1J$540be3f0-a860-48de-879a-7af352e72cf1
+}	java:S1259"<This block of commented-out lines of code should be removed.(ÖÕV8Çôàè1J$a1c2fae4-3a50-4c10-bb25-6fe222d1354b
+k
+java:S1125;"(Remove the unnecessary boolean literals.(şˆí¦8‚¦Òßè1J$1cc0a43b-bbf3-42e4-be31-966f937c3cdc
+l
+java:S1172A")Remove this unused method parameter "ex".(µÔöˆ8Šè”àè1J$07be35e9-54e7-4ec2-a75f-ea43101edb45
+
+java:S1128"JRemove this unused import 'com.backbase.movieservice.entity.MovieSummary'.(‡”Ò‰8· àè1J$f4cf3a5e-13f0-4c88-bebc-3d5cfe8730ce
+x
+java:S1128"5Remove this unused import 'jakarta.ws.rs.QueryParam'.(ó¡Å±8¹ àè1J$5ec5afe2-3e59-4d14-ab6a-80b704a1a248
